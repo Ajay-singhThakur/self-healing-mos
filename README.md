@@ -1,4 +1,4 @@
-# PhoenixNode: Self-Healing Microservice Architecture
+# Self-Healing Microservice Architecture
 
 A cloud-native Node.js application demonstrating **Fault Tolerance** and **Automated Orchestration** using Kubernetes. 
 

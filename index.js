@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
     <!DOCTYPE html>
     <html lang="en">
     <head>
-        <title>PHOENIX_OS // COMMAND_CENTER</title>
+        <title>self-healing system</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/dist/css/bootstrap.min.css" rel="stylesheet">
         <style>
             :root { --neon-blue: #00f3ff; --neon-red: #ff0055; --neon-green: #39ff14; --panel-bg: #12141d; }
@@ -37,7 +37,7 @@ app.get('/', (req, res) => {
     </head>
     <body>
         <div class="header-bar">
-            <h4 class="mb-0 fw-bold">PHOENIX_OS <span class="text-secondary small ms-2">/ CLUSTER_MONITOR</span></h4>
+            <h4 class="mb-0 fw-bold">self-healing <span class="text-secondary small ms-2">/ system</span></h4>
             <div id="global-status" class="text-success fw-bold">SYSTEM_OPERATIONAL</div>
         </div>
 
